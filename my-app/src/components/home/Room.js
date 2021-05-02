@@ -28,7 +28,7 @@ export default styled(Room)`
     background-color: ${setColor.mainWhite};
     margin: ${setRem(32)} 0;
     .img-container {
-        background-color: ${setColor.mainBlack};
+        background-color: black;
         position: relative;
         img {
             width: 100%;
